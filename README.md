@@ -1,7 +1,7 @@
-# 🍴 Habesha Restaurant Food Reservation Mobile App
+# 🍴 Habesha Restaurant Food Reservation Web App
 
 ## 📌 Overview
-The **Habesha Restaurant Food Reservation Mobile App** is a mobile solution designed to simplify meal and conference room reservations at restaurants, hotels, and similar venues.  
+The **Habesha Restaurant Food Reservation Web App** is a Web solution designed to simplify meal and conference room reservations at restaurants, hotels, and similar venues.  
 
 With this app, customers can:
 - Reserve seats and meals ahead of time.
@@ -35,7 +35,7 @@ Admins (e.g., hotel or restaurant managers) can efficiently prepare seating, mea
 ---
 
 ## 🛠 Tech Stack
-- **Frontend (Mobile App)**: [Flutter](https://flutter.dev/)  
+- **Frontend (Web App)**: [Flutter](https://flutter.dev/)  
   - Versions available with **BLoC** and **Riverpod** for state management.  
 - **Backend**: [NestJS](https://nestjs.com/) + [MongoDB](https://www.mongodb.com/)  
 - **Architecture**: Domain-Driven Design (DDD)  
