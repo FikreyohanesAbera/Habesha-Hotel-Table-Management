@@ -21,7 +21,6 @@ Admins (e.g., hotel or restaurant managers) can efficiently prepare seating, mea
 - **Manage Reservations**:
   - Update, postpone, or cancel reservations with ease.
 - **Admin Preparation Tools**: Helps staff plan food, seating, and cleaning schedules.
--  Includes **Unit Tests**, **Integration Tests**, and **Widget Tests** for reliability.
 
 ---
 
@@ -35,8 +34,7 @@ Admins (e.g., hotel or restaurant managers) can efficiently prepare seating, mea
 ---
 
 ## 🛠 Tech Stack
-- **Frontend (Web App)**: [Flutter](https://flutter.dev/)  
-  - Versions available with **BLoC** and **Riverpod** for state management.  
+- **Frontend (Web App)**: CSS and JQuery with fetch API
 - **Backend**: [NestJS](https://nestjs.com/) + [MongoDB](https://www.mongodb.com/)  
 - **Architecture**: Domain-Driven Design (DDD)  
 
